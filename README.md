@@ -18,7 +18,7 @@ Objectives:
 Project Structure
 ├── TSLA.csv # Raw Tesla stock data
 ├── data_preprocessing.py # Handling missing values, outliers
-├── univariate_analysis.py # Histograms, boxplots, KDE
+├── univariate_analysis.py # Histograms, boxplots
 ├── feature_engineering.py # Scaling, encoding, binning
 ├── clustering_pca_visualization.py # KMeans + PCA
 ├── explainability.py # SHAP explanations
